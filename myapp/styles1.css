@@ -1,0 +1,99 @@
+.main-gh {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  font-size: 16px;
+}
+
+.container1 {
+  max-width: 1100px; 
+  margin: 0 auto;
+  padding: 0;
+  margin-bottom: 15px;
+  padding-right: 160px;
+}
+
+.custom-heading-1 {
+  font-size: 20px;
+  color: #006666;
+  text-align: center;
+}
+
+.custom-heading-2,
+.custom-heading-3,
+.custom-heading-4,
+p,
+ul,
+li {
+  color: black;
+}
+
+.custom-heading-2 {
+  font-size: 18px;
+}
+
+.custom-heading-3 {
+  font-size: 16px;
+}
+
+.custom-heading-4 {
+  font-size: 14px;
+}
+
+p {
+  line-height: 1.4;
+}
+
+ul {
+  padding-left: 15px;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.header-content {
+  background-color: #009FFF;
+  padding: 8px;
+  color: white;
+}
+
+.header-content a {
+  color: white;
+  text-decoration: none;
+  margin-right: 8px;
+}
+
+.header-content img {
+  vertical-align: middle;
+  margin-right: 4px;
+}
+
+.content-wrapper {
+  border: 1px solid #ccc;
+  padding: 15px;
+  background-color: #f9f9f9;
+}
+.award-table {
+  width: 80%;
+  border-collapse: collapse;
+  font-size: 14px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.award-table th,
+.award-table td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid black;
+  color: black; 
+}
+
+.award-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.award-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
